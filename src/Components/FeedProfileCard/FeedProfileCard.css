@@ -1,0 +1,31 @@
+.card{
+    width: 250px;
+    height: 230px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.card .card-title{
+    text-align: center;
+}
+.card .card-text{
+    text-align: center;
+}
+.card .profileviews-wrapper{
+    display:flex;
+    flex-direction: row;
+
+
+}
+.card .profileviews-wrapper .profileviews{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}
+.card .profileviews-wrapper .postviews{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}

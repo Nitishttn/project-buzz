@@ -1,0 +1,22 @@
+.menu-list{
+    list-style: none;
+}
+
+.messagelogo {
+    position: absolute;
+    right: -180px;
+    width: 280px;
+
+}
+.userlogo {
+    position: absolute;
+    right: -230px;
+    width: 280px;
+
+}
+.profilelogo {
+    position: absolute;
+    right: 30px;
+    width: 280px;
+
+}

@@ -1,0 +1,16 @@
+.contact-wrapper{
+    position: absolute;
+    top: 120px;
+    right: 50px;    
+}
+
+.contact-wrapper .contact-list{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    
+
+}
